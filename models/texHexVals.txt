@@ -1,0 +1,25 @@
+ffd8 - start of image
+ffe1 - APP1 application specific - 100+ bytes
+ffd8 - start of image ?again?
+ffed - APPd? - 12 bytes
+ffee - comment
+ffdb - quantization table
+ffc0 - start of frame image components - 17 bytes
+ffdd - Define restart interval - 4 bytes
+ffc4 - define huffman tables ? - 100+ bytes
+ffda - start of scan (top to bottom scan of image)
+ffd0 - restart - address 600
+ffd1 - restart - address 900
+ffd2 - restart - address c20
+ffd3 - restart - address d30
+ffd4 - restart - address 1100
+ffd5 - restart - address 1366
+ffd6 - restart - address 1628
+ffd7 - restart - address 1926
+ffd0 - restart - address 1b7c
+ffd9 - end of image/scan - address 1e7f
+ffed - APPd? 1000+ bytes
+ffd8 - start of image?
+ffed - APPd?
+ffee - APPe?
+2% through jpg file
